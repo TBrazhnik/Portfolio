@@ -24,3 +24,7 @@
 |Оформление баг-репортов в баг-трекинговой системе|JIRA|
 |Тестирование API|DevTools, Postman, Swagger, SoapUI, Mockoon, Jmeter|
 |Обращение к реляционным БД с помощью SQL|PostgreSQL, pgAdmin|
+
+## Проекты
+**Проект:** Расписание. Раздел “Личные события” для учителей Skyeng   
+**Основные требования:** https://skyengpublic.notion.site/6746e543d02c43879de0057cafe196b0   
