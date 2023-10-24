@@ -19,3 +19,8 @@
 |:-|:-|
 |Составление тест-планов и отчетов о тестировании|Confluence, Notion|
 |Составление mindmap проекта|Miro|
+|Составление тест-кейсов|QASE.io|
+|Составление чек-листов|Sitechco, Checkvist|
+|Оформление баг-репортов в баг-трекинговой системе|JIRA|
+|Тестирование API|DevTools, Postman, Swagger, SoapUI, Mockoon, Jmeter|
+|Обращение к реляционным БД с помощью SQL|PostgreSQL, pgAdmin|
